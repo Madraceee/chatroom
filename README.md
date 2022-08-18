@@ -13,7 +13,7 @@ Talk as an anonymous user or with your own username!
 
 ![Username Renaming](https://user-images.githubusercontent.com/100791797/185457338-129af8fc-402b-40ff-8b6c-ffc84b736d70.gif)
 
-#### More information
+### More information
 ---
 - All the data is stored in a firebase database.
 - A limited chat webapp to showcase javascript skills.
